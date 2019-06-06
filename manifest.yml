@@ -4,4 +4,3 @@ applications:
   host: tung-ibm-services
   name: tung-ibm-services
   memory: 64M
-  path: dist
