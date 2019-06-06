@@ -1,7 +1,7 @@
 ---
 applications:
 - buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
-  host: nlu-demo
-  name: nlu-demo
+  host: tung-ibm-services
+  name: tung-ibm-services
   memory: 64M
   path: dist
