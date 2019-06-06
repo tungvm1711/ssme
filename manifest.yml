@@ -1,6 +1,6 @@
 ---
 applications:
 - buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
-  name: tung-ibm-services
+  name: tung-ibm-ssme
   memory: 64M
   path: dist
