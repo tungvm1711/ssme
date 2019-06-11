@@ -12,7 +12,7 @@
 </template>
 
 <script>
-  const defaultUrl = 'https://en.wikipedia.org/wiki/Czech_Republic'
+  const defaultUrl = 'https://en.wikipedia.org/wiki/cat'
   export default {
     name: 'query-box',
     props: ['value', 'submitOnMount', 'disabled'],
